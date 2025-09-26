@@ -17,7 +17,7 @@ J'ai déjà commencé à me familiariser avec Git et GitHub, notamment pour la g
 # Illustration
 
 Voici une image pour illustrer mon apprentissage de Git et GitHub :
-![Cat-picture](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)
 
 
 
