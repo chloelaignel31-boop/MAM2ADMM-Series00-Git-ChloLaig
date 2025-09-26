@@ -4,6 +4,7 @@ Ce dépôt est utilisé pour apprendre les bases de Git et GitHub
 “Première modification du README”
 
 # Introduction
+
 ## Objectif du dépôt
 
 - Pratiquer les commandes de base de Git : `clone`, `add`, `commit`, `push`, `pull`.  
