@@ -29,7 +29,7 @@ Cette expérience m’encourage à cultiver la curiosité et la patience dans mo
 
 Voici un graphique ajouté depuis mon ordinateur :
 
-![Graphique python](image/PANU_VS_EENU.png)
+![Graphique Python](Image/PANU_VS_EENU.png)
 
 # Résumé de l'apprentissage
 
