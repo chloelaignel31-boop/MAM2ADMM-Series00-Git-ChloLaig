@@ -29,7 +29,9 @@ Cette expérience m’encourage à cultiver la curiosité et la patience dans mo
 
 Voici un graphique ajouté depuis mon ordinateur :
 
-![Graphique Python](/Users/chloe/Master-projects/MAM2ADMM/MAM2ADMM-Series00-Git-ChloLaig/Series00_GITV2)
+![Graphique Python](/Users/chloe/Master-projects/MAM2ADMM/MAM2ADMM-Series00-Git-ChloLaig/Series00_GITV2/Image/PANU_VS_EENU.png)
+
+
 
 # Résumé de l'apprentissage
 
@@ -42,3 +44,6 @@ Pendant ce devoir, j'ai appris à utiliser Git et GitHub pour :
 
 Ce travail m'a permis de pratiquer ces concepts de manière concrète et m'a pris environ 4 heures pour être complété.
 
+
+
+[def]: /Users/chloe/Master-projects/MAM2ADMM/MAM2ADMM-Series00-Git-ChloLaig/Series00_GITV2/Image/PANU_VS_EENU.png
