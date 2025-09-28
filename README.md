@@ -29,7 +29,7 @@ Cette expérience m’encourage à cultiver la curiosité et la patience dans mo
 
 Voici un graphique ajouté depuis mon ordinateur :
 
-![Graphique Python](/SERIES00_GITV2/Image/PANU_VS_EENU.png)
+![Graphique Python](/Users/chloe/Master-projects/MAM2ADMM/MAM2ADMM-Series00-Git-ChloLaig/Series00_GITV2)
 
 # Résumé de l'apprentissage
 
