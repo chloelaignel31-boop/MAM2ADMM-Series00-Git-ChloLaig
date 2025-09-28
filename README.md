@@ -1,10 +1,6 @@
 # MAM2ADMM-Series00-Git-ChloLaig
 Ce dépôt est utilisé pour apprendre les bases de Git et GitHub
 “Première modification du README”
-# MAM2ADMM-Series00-Git-ChloLaig
-Ce dépôt est utilisé pour apprendre les bases de Git et GitHub
-
-“Exemple: Première modification du README”
 
 # Introduction
 
