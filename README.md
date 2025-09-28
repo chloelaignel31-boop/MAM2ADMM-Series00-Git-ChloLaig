@@ -19,7 +19,12 @@ J'ai déjà commencé à me familiariser avec Git et GitHub, notamment pour la g
 Voici une image pour illustrer mon apprentissage de Git et GitHub :
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)
 
+# Motivation
 
+Apprendre Python, R et Git est essentiel pour mes études, et ce sont aussi des compétences qui pourront beaucoup me servir plus tard.
+J’aime explorer les données et découvrir comment les outils numériques rendent cette exploration plus facile et plus riche.
+Je suis enthousiaste à l’idée de développer des projets qui mêlent analyses, visualisations et collaboration sur GitHub.
+Cette expérience m’encourage à cultiver la curiosité et la patience dans mon apprentissage.
 
 
 
